@@ -25,7 +25,7 @@ SECRET_KEY = '05_jry$2&s8f@5)ofuh^1+^w4=zw9vcfr+tnizn)zt@n&kl95h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['112.194.212.102','127.0.0.1', 'localhost ', '.zyj-blog.top','192.168.10.66']
+ALLOWED_HOSTS = ['120.24.89.122','127.0.0.1', 'localhost ', '.zyj-blog.top','192.168.10.66']
 
 
 # Application definition
